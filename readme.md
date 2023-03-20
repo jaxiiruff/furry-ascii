@@ -1,2 +1,2 @@
-# stuff
-Random things I made/edited.
+# furry-ascii
+Random furry ascii art I made/edited.
