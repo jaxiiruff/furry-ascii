@@ -1,2 +1,2 @@
 # furry-ascii
-Random furry ascii art I made/edited.
+Random ascii art I made/edited.
